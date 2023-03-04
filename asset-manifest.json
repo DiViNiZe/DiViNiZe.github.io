@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.7e618785.css",
-    "main.js": "/static/js/main.a0beb290.js",
+    "main.css": "/static/css/main.3d5e79ca.css",
+    "main.js": "/static/js/main.f749e70a.js",
     "static/js/787.bd8e34f3.chunk.js": "/static/js/787.bd8e34f3.chunk.js",
     "static/media/patric.webp": "/static/media/patric.8a6bb7d726a97e02a6f9.webp",
     "static/media/Montserrat-Medium.ttf": "/static/media/Montserrat-Medium.c86e3b9010ff63c99166.ttf",
-    "static/media/beMindmap.webp": "/static/media/beMindmap.09e0e7fa43ab838ee5d2.webp",
-    "static/media/infraMindmap.webp": "/static/media/infraMindmap.703bbd66c9724c4f482f.webp",
-    "static/media/feMindmap.webp": "/static/media/feMindmap.5ea4e42379a46a55e742.webp",
+    "static/media/beMindmap.webp": "/static/media/beMindmap.d4917cebf7c307228735.webp",
+    "static/media/infraMindmap.webp": "/static/media/infraMindmap.798327cd0b6640df9559.webp",
+    "static/media/feMindmap.webp": "/static/media/feMindmap.ce4b7f21cd85dbecb435.webp",
     "static/media/wnlogo2.webp": "/static/media/wnlogo2.f737a773e3510d215e17.webp",
     "static/media/comp4.webp": "/static/media/comp4.b386e782ede2be90b337.webp",
     "static/media/mtblogo.webp": "/static/media/mtblogo.d6f73e0e842da69d8e24.webp",
@@ -15,12 +15,12 @@
     "static/media/arvlogo.webp": "/static/media/arvlogo.e678127e0330305dd0fb.webp",
     "static/media/comp2.webp": "/static/media/comp2.d0f0e72d11fd8ec74409.webp",
     "index.html": "/index.html",
-    "main.7e618785.css.map": "/static/css/main.7e618785.css.map",
-    "main.a0beb290.js.map": "/static/js/main.a0beb290.js.map",
+    "main.3d5e79ca.css.map": "/static/css/main.3d5e79ca.css.map",
+    "main.f749e70a.js.map": "/static/js/main.f749e70a.js.map",
     "787.bd8e34f3.chunk.js.map": "/static/js/787.bd8e34f3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7e618785.css",
-    "static/js/main.a0beb290.js"
+    "static/css/main.3d5e79ca.css",
+    "static/js/main.f749e70a.js"
   ]
 }
